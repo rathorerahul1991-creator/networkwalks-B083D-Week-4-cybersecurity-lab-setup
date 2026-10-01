@@ -109,8 +109,13 @@ PENETRATION TESTING REPORT.docx
 <img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_39_33" src="https://github.com/user-attachments/assets/924e063f-981b-4c82-9257-9f5f6ac923eb" />
 <img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_39_52" src="https://github.com/user-attachments/assets/26b033c9-d4fa-4316-b3a5-e2635813be1b" />
 <img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_40_01" src="https://github.com/user-attachments/assets/b5cabc17-057e-41f6-bab2-1db8cbeffb74" />
-![Uploading VirtualBox_kali-linux-2026.2-virtualbox-amd64_01_10_2026_17_40_01.png…]()
-![Uploading VirtualBox_kali-linux-2026.2-virtualbox-amd64_01_10_2026_17_48_23.png…]()
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_39_52" src="https://github.com/user-attachments/assets/d97af5aa-bb8b-491f-964f-e03268166f4f" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_40_01" src="https://github.com/user-attachments/assets/2cf3f32d-a10b-4527-a7de-6c0dedc26b0f" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_48_23" src="https://github.com/user-attachments/assets/79f5c0b8-cbf8-4504-a711-4c016c516c4c" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_48_33" src="https://github.com/user-attachments/assets/0cfad70f-74b6-4fb6-986e-85140137c63a" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_48_41" src="https://github.com/user-attachments/assets/9e1687fc-c3db-4bfb-a842-c39835a75be1" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_48_48" src="https://github.com/user-attachments/assets/cc96c300-4cf0-43e9-970d-86d3cd66a7e7" />
+
 
 
 
