@@ -99,3 +99,27 @@ LinkedIn: www.linkedin.com/in/rahul-rathore91
 
 ## Penetration Report.↘️
 PENETRATION TESTING REPORT.docx
+
+<img width="2880" height="1612" alt="Medirozahospital password find" src="https://github.com/user-attachments/assets/9f02d461-052e-48f6-9708-89ed99183c9a" />
+
+<img width="2880" height="1612" alt="password brich" src="https://github.com/user-attachments/assets/42aca1be-037d-4ccd-a9e8-9097342d63ee" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_37_38" src="https://github.com/user-attachments/assets/d2f9a4fe-fabf-46c6-9223-ac51fc4d555e" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_38_06" src="https://github.com/user-attachments/assets/a3c3c20e-a7c3-4d58-8f44-e5543d6c0655" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_38_25" src="https://github.com/user-attachments/assets/e9cd6ac7-3a60-453f-8e0a-0eced126cede" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_39_33" src="https://github.com/user-attachments/assets/924e063f-981b-4c82-9257-9f5f6ac923eb" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_39_52" src="https://github.com/user-attachments/assets/26b033c9-d4fa-4316-b3a5-e2635813be1b" />
+<img width="2880" height="1612" alt="VirtualBox_kali-linux-2026 2-virtualbox-amd64_01_10_2026_17_40_01" src="https://github.com/user-attachments/assets/b5cabc17-057e-41f6-bab2-1db8cbeffb74" />
+![Uploading VirtualBox_kali-linux-2026.2-virtualbox-amd64_01_10_2026_17_40_01.png…]()
+![Uploading VirtualBox_kali-linux-2026.2-virtualbox-amd64_01_10_2026_17_48_23.png…]()
+
+
+
+
+
+
+
+
+
+
+
+
